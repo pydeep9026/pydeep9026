@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pydeep9026
-- 👀 just started with python hope to learn a lot.
+- 👀 just started with python,c and c++ hope to learn a lot.
 - 📫 How to reach me ..
 
 <!---
