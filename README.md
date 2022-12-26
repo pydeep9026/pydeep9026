@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pydeep9026
-- 👀 just started with python,c and c++ hope to learn a lot.
+- 👀 just started with python,c, c++ and javascript .hope to learn a lot.
 - 📫 How to reach me ..
+- pradeepsi2120032@gmail.com
 - https://pydeep9026.github.io/PORTFOLIO_WEB/
 
 <!---
