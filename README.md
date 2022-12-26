@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pydeep9026
+- 👋 Hi, I’m pradeep
 - 👀 just started with python,c, c++ and javascript .hope to learn a lot.
 - 📫 How to reach me ..
 - pradeepsi2120032@gmail.com
