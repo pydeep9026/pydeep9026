@@ -2,4 +2,4 @@
 - 👀 just started with python,c, c++,HTML,CSS, javascript AND REACT .hope to learn a lot.
 - 📫 How to reach me ..
 - pradeepsi2120032@gmail.com
-- https://pydeep9026.github.io/portfilio_web2/
+-http://pradeeps.me/
