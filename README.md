@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pradeep.
-- 👀 just started with python,c, c++,HTML,CSS, javascript AND REACT JS .hope to learn a lot.
+- 👀 just started with python, c, c++,HTML,CSS, javascript AND REACT JS .hope to learn a lot.
 - 📫 How to reach me.
 - email -pradeepsi2120032@gmail.com<br>
 - website-http://pradeeps.me/
