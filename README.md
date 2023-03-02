@@ -66,6 +66,23 @@ learning programming and web development..
    </a>
 </p>
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://nodejs.org/" target="_blank"> 
+   <img alt="Node.js" src="https://img.shields.io/badge/node%20-%23E34F26.svg?style=plastic&logo=node.js&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express.js" src="https://img.shields.io/badge/express-%23404d59.svg?style=plastic&logo=express&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a>
+</p>
+
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
