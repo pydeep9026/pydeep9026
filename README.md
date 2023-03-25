@@ -27,7 +27,8 @@ and investor with 2 years of experience and i have a
 youtube channel with 5k+ subscribers and i am currently
 learning programming and web development..
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/pydeep9026/pydeep9026/files/11068296/RxResume_PDFExport_pradeepsi2120032_pradeep-singh1_1679729039.pdf)
+- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/pydeep9026/pydeep9026/files/11068299/Pradeep.sResume.pdf)
+
 - :boom: You can visit [my website](https://pradeeps.me).
 <br>
 
