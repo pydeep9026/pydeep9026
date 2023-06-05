@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="center"> 
+<p align="center">  
 	<img src="https://komarev.com/ghpvc/?username=pydeep9026&label=Profile%20views&color=0047AB&style=plastic?" alt="pradeep" height=25px, width=160px/> 
 </p>
 
