@@ -19,7 +19,7 @@
 <br><br> 
 
 -I am currently studying computer science engineering
-at srm institute of science and technology,ktr chennai.
+at srm institute of science and technology,ktr, chennai.
 I have completed my Higher Secondary from lucknow
 public college,lucknow and Secondary School from
 st, xavier's high school,hardoi . I am a crypto analyst
