@@ -25,7 +25,7 @@ public college,lucknow and Secondary School from
 st, xavier's high school,hardoi . I am a crypto analyst
 and investor with 2 years of experience and i have a
 youtube channel with 5k+ subscribers and i am currently
-learning programming and web development..
+learning programming and full stackweb development..
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/pydeep9026/pydeep9026/files/12044182/prares.pdf)
 
