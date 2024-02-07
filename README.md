@@ -27,7 +27,8 @@ and investor with 2 years of experience and i have a
 youtube channel with 5k+ subscribers and i am currently
 learning programming and full stack web development..
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [my resume](https://github.com/pydeep9026/pydeep9026/files/13979310/resumepradeep.pdf)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/pydeep9026/pydeep9026/files/14200058/resumenew4.pdf)
+
 
 
 
