@@ -1,4 +1,7 @@
-<img align="center" alt="coding" width="400" src="https://github.com/pydeep9026/pydeep9026/assets/91087103/3c5241d7-3231-49ae-8dae-8047114ee963">
+<div align="center">
+  <img src="https://github.com/pydeep9026/pydeep9026/assets/91087103/3c5241d7-3231-49ae-8dae-8047114ee963" alt="coding" width="400">
+</div>
+
 
 
 
