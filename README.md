@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center" >Hi , I'm Pradeep Singh      
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>      
 <p align="center">  
@@ -22,29 +18,19 @@
 
 <br><br> 
 
--I am currently studying computer science engineering
-at srm institute of science and technology,ktr chennai.
-I have completed my Higher Secondary from lucknow
-public college,lucknow and Secondary School from
-st, xavier's high school,hardoi . I am a crypto analyst
-and investor with 2 years of experience and i have a
-youtube channel with 5k+ subscribers and i am currently
-learning programming and full stack web development..
+- I am currently studying computer science engineering  
+at SRM Institute of Science and Technology, KTR Chennai.  
+I have completed my Higher Secondary from Lucknow  
+Public College, Lucknow, and Secondary School from  
+St. Xavier's High School, Hardoi. I am a crypto analyst  
+and investor with 2 years of experience and I have a  
+YouTube channel with 5k+ subscribers. I am currently  
+learning programming and full-stack web development.
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/pydeep9026/pydeep9026/files/14200058/resumenew4.pdf)
 
-
-
-
-
-
-- :boom: You can visit [my website](https://pradeeps.me).
+- :boom: You can visit [my website](https://pradeeps.me).  
 <br>
-
-
-
-
-
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
@@ -53,10 +39,7 @@ learning programming and full stack web development..
 	<a href="https://www.linkedin.com/in/pradeep-singh-b57881207/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-
-
 ## 🛠️ My Skills
-
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
@@ -70,12 +53,20 @@ learning programming and full stack web development..
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+   &emsp;
+   <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=plastic&logo=next.js&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
@@ -92,8 +83,31 @@ learning programming and full stack web development..
   <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://nestjs.com/" target="_blank">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
 </p>
 
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/DevOps.gif?raw=true" width="50px"> </picture> DevOps & Cloud
+<p align="center">
+  &emsp; 
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
+  </a>  
+  &emsp;
+  <a href="https://kubernetes.io/" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white">
+  </a>  
+  &emsp;
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white">
+  </a>
+</p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
@@ -114,87 +128,18 @@ learning programming and full stack web development..
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP.gif?raw=true" width = 50px>  </picture> Tools
+<p align="center"> 
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+   <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  </a>  
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-
-
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDE
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-
-
-
-
-<br> 
-
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pydeep9026&theme=tokyonight_duo" alt="pydeep9026" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="pradeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pydeep9026&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="pradeep" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![pydeep9026's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pydeep9026&theme=github	)](https://github.com/pydeep9026/github-readme-activity-graph)
-
- 
-</details>
-
-
-	
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/pydeep9026/pydeep9026/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
-
+</p> 
 
